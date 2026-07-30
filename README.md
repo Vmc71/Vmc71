@@ -94,4 +94,4 @@
 
 ---
 
-> **Code • Secure • Automate • Improve**
+> **Creator by Vmc71**
