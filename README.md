@@ -56,8 +56,6 @@
 
 # 🚀 My Workstation
 
-> Replace with your actual hardware if needed.
-
 | Component | Spec |
 |---|---|
 | CPU | AMD Ryzen 9 7950X3D |
